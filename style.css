@@ -42,3 +42,8 @@ h1 {
 .countdown-el span {
     font-size: 1.3rem;
 }
+
+.foot {
+    position: fixed;
+    bottom: 0;
+}
